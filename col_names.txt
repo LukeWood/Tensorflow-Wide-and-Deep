@@ -8,7 +8,7 @@ enrolled in edu inst last wk
 marital status
 major industry code
 major occupation code
-mace
+race
 hispanic origin
 sex
 member of a labor union
