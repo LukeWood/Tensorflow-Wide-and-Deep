@@ -1,9 +1,8 @@
 class of worker
-detailed industry recode
-detailed occupation recode
+industry code
+occupation code
 education
-enroll in edu inst last wk
-marital stat
+marital status
 major industry code
 major occupation code
 race
@@ -12,7 +11,7 @@ sex
 member of a labor union
 reason for unemployment
 full or part time employment stat
-tax filer stat
+tax filer status
 region of previous residence
 state of previous residence
 detailed household and family stat
