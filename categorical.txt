@@ -2,6 +2,7 @@ class of worker
 industry code
 occupation code
 education
+enrolled in edu inst last wk
 marital status
 major industry code
 major occupation code
@@ -30,3 +31,4 @@ own business or self employed
 fill inc questionnaire for veteran's admin
 veterans benefits
 year
+income
