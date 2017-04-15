@@ -2,7 +2,6 @@ age
 class of worker
 industry code
 occupation code
-adjusted gross income
 education
 wage per hour
 enrolled in edu inst last wk
@@ -10,7 +9,7 @@ marital status
 major industry code
 major occupation code
 mace
-hispanic Origin
+hispanic origin
 sex
 member of a labor union
 reason for unemployment
@@ -18,13 +17,11 @@ full or part time employment stat
 capital gains
 capital losses
 divdends from stocks
-federal income tax liability
 tax filer status
 region of previous residence
 state of previous residence
 detailed household and family stat
 detailed household summary in household
-instance weight
 migration code-change in msa
 migration code-change in reg
 migration code-move within reg
@@ -32,14 +29,12 @@ live in this house 1 year ago
 migration prev res in sunbelt
 num persons worked for employer
 family members under 18
-total person earnings
 country of birth father
 country of birth mother
 country of birth self
 citizenship
-total person income
 own business or self employed
-taxable income amount
 fill inc questionnaire for veteran's admin
 veterans benefits
 weeks worked in year
+year
