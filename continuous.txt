@@ -1,5 +1,4 @@
 age
-wage per hour
 capital gains
 capital losses
 dividends from stocks
